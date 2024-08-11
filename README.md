@@ -16,31 +16,42 @@ Insights from the Dashboard:
 
 1.	Employee Count and Attrition:
 
-a.	Total Employees: 1,470
+  a.	Total Employees: 1,470
 
-b.	Employees Who Left: 237 (87 female, 150 male)
+  b.	Employees Who Left: 237 (87 female, 150 male)
 
-c.	Active Employees: 1,233
+  c.	Active Employees: 1,233
 
-d.	Attrition Rate: 16.12%
+  d.	Attrition Rate: 16.12%
 
 2.	Attrition by Educational Field:
 
-a.	Highest Attrition: Life Sciences (89 employees)
+  a.	Highest Attrition: Life Sciences (89 employees)
 
-b.	Lowest Attrition: Human Resources (7 employees)
+  b.	Lowest Attrition: Human Resources (7 employees)
+
 3.	Job Satisfaction Ratings:
-o	Very Satisfied: 289 employees
-o	Satisfied: 280 employees
-o	Less Satisfied: 442 employees
-o	Very Less Satisfied: 459 employees
+
+  a.	Very Satisfied: 289 employees
+
+  b.	Satisfied: 280 employees
+
+  c.	Less Satisfied: 442 employees
+
+  d.	Very Less Satisfied: 459 employees
+
 4.	Departmental Concern:
-o	Employee satisfaction is particularly low in the R&D department, which requires attention.
+
+   Employee satisfaction is particularly low in the R&D department, which requires attention.
+
 5.	Attrition by Age Group:
-o	Higher Attrition: Age group 25-34
-o	Lower Attrition: Age group over 55
+
+   a.Higher Attrition: Age group 25-34
+   b.Lower Attrition: Age group over 55
+   
 6.	Age Demographics:
-o	The majority of employees are in the 25-40 age group, with an average age of 37 years.
+
+  	The majority of employees are in the 25-40 age group, with an average age of 37 years.
 
 Actionable Insights:
 
