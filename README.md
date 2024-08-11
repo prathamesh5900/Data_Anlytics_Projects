@@ -1,4 +1,4 @@
-# Data_Anlytics_Projects
+# Tableau_Projects
 
 HR_DATA_ANALYTICS
 Dashboard Link : https://public.tableau.com/app/profile/prathmesh.pawar6822/viz/HRANALYTICSDASHBOARD_17219783665530/HRANALYTICSDASHBOARD
