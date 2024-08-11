@@ -15,13 +15,20 @@ This dashboard helps HR teams make informed decisions to improve employee retent
 Insights from the Dashboard:
 
 1.	Employee Count and Attrition:
-o	Total Employees: 1,470
-o	Employees Who Left: 237 (87 female, 150 male)
-o	Active Employees: 1,233
-o	Attrition Rate: 16.12%
+
+a.	Total Employees: 1,470
+
+b.	Employees Who Left: 237 (87 female, 150 male)
+
+c.	Active Employees: 1,233
+
+d.	Attrition Rate: 16.12%
+
 2.	Attrition by Educational Field:
-o	Highest Attrition: Life Sciences (89 employees)
-o	Lowest Attrition: Human Resources (7 employees)
+
+a.	Highest Attrition: Life Sciences (89 employees)
+
+b.	Lowest Attrition: Human Resources (7 employees)
 3.	Job Satisfaction Ratings:
 o	Very Satisfied: 289 employees
 o	Satisfied: 280 employees
