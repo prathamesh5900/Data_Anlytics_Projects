@@ -38,6 +38,8 @@ o	The majority of employees are in the 25-40 age group, with an average age of 3
 Actionable Insights:
 
 •	Improve Satisfaction in Low-Rated Departments:Sales and research departments have low satisfaction scores, focus on understanding the underlying issues and implementing targeted interventions.
+
 •	Enhance Retention Strategies: Consider developing tailored retention strategies, such as career development opportunities, mentorship programs, or improved benefits.
+
 •	Targeted Training Programs: Use performance data to identify employees or departments that could benefit from additional training and development.
 
