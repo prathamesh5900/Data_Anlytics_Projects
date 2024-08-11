@@ -13,6 +13,7 @@ This dashboard helps HR teams make informed decisions to improve employee retent
 
 
 Insights from the Dashboard
+
 1.	Employee Count and Attrition:
 o	Total Employees: 1,470
 o	Employees Who Left: 237 (87 female, 150 male)
@@ -35,6 +36,7 @@ o	Lower Attrition: Age group over 55
 o	The majority of employees are in the 25-40 age group, with an average age of 37 years.
 
 Actionable Insights:
+
 •	Improve Satisfaction in Low-Rated Departments:Sales and research departments have low satisfaction scores, focus on understanding the underlying issues and implementing targeted interventions.
 •	Enhance Retention Strategies: Consider developing tailored retention strategies, such as career development opportunities, mentorship programs, or improved benefits.
 •	Targeted Training Programs: Use performance data to identify employees or departments that could benefit from additional training and development.
