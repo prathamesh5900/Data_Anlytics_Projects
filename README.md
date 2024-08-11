@@ -12,6 +12,8 @@ The goal of this dashboard is to understand employee satisfaction and identify a
 This dashboard helps HR teams make informed decisions to improve employee retention and overall satisfaction.
 
 
+
+
 Insights from the Dashboard:
 
 1.	Employee Count and Attrition:
@@ -52,6 +54,8 @@ Insights from the Dashboard:
 6.	Age Demographics:
 
   	The majority of employees are in the 25-40 age group, with an average age of 37 years.
+
+
 
 Actionable Insights:
 
