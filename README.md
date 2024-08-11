@@ -3,7 +3,7 @@
 HR_DATA_ANALYTICS
 Dashboard Link : https://public.tableau.com/app/profile/prathmesh.pawar6822/viz/HRANALYTICSDASHBOARD_17219783665530/HRANALYTICSDASHBOARD
 
-Problem Statement
+Problem Statement :
 
 The goal of this dashboard is to understand employee satisfaction and identify areas for improvement by analyzing key HR metrics. Specifically, it aims to:
 1.	Measure Employee Satisfaction: Assess job satisfaction ratings across different job roles
@@ -12,7 +12,7 @@ The goal of this dashboard is to understand employee satisfaction and identify a
 This dashboard helps HR teams make informed decisions to improve employee retention and overall satisfaction.
 
 
-Insights from the Dashboard
+Insights from the Dashboard:
 
 1.	Employee Count and Attrition:
 o	Total Employees: 1,470
